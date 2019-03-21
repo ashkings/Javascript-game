@@ -1,2 +1,2 @@
 # Javascript-game
-RGB volor game using javascript
+RGB color game using javascript
